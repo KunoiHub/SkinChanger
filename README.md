@@ -1,4 +1,4 @@
-# SO2 Advanced SkinChanger
+# Standoff 2 SkinChanger
 
 Skin changer for **Standoff 2**, working through memory manipulation of the emulator process (`hd-player.exe`).
 
