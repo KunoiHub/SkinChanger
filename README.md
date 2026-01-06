@@ -59,7 +59,7 @@ If no matches are found, re-equip or unequip the skin in-game and try again.
 
 - Windows 10 / 11
 - 64 bit emulator
-- .NET runtime compatible with C#
+- .NET runtime compatible with C# (8.0 - 9.0 preferred)
 - Emulator running Standoff 2
 - Administrator privileges
 
